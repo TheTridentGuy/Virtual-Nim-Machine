@@ -1,0 +1,45 @@
+Rules:
+
+The basics of nim are as follows:
+A player takes a certain amount of gems from a pile. Their opponent also takes
+gems from a pile. This repeats. The player to take the last gem either wins or loses
+
+Note:
+In the bottom-left corner of the window for a game there will be a chunk of text
+showing the variation of nim being played. If applicable it will also show the
+maximum amount of gems you can take.
+
+Variations:
+
+1 Pile Last Gem Wins:
+In this variation there is only one pile of gems, and you can only take up to a certain
+amount (this amount will be displayed in the bottom-left corner). The person who takes the
+last gem wins.
+
+1 Pile Last Gem Loses:
+The same as 1 pile last gem wins except the person who takes the last gem loses.
+
+2 Pile Last Gem Wins:
+In this variation there are two piles of gems (the amount in each pile can be the same or different),
+and you can take as many gems as you want but only from one pile. The person who takes
+the last gem wins.
+
+2 Pile Last Gem Loses:
+The same as 2 pile last gem wins except the person who takes the last gem loses.
+
+Good Luck!
+
+Note:
+In this game listing "person" could also mean "computer"!
+
+License:
+
+Copyright (c) 2022 Aiden Bohlander.
+
+This file is part of the Virtual Nim Machine.
+
+the Virtual Nim Machine is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+the Virtual Nim Machine is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with the Virtual Nim Machine. If not, see <https://www.gnu.org/licenses/>.
